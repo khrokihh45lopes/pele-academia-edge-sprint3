@@ -46,7 +46,7 @@ const int   WIFI_CANAL = 6;
 
 /* --- ThingSpeak ---------------------------------------------------------- */
 /* Substitua pela "Write API Key" do seu canal (aba API Keys do ThingSpeak).  */
-const char *TS_WRITE_API_KEY = "7CJ8UFWQY468B6X1";
+const char *TS_WRITE_API_KEY = "M5TPMH22R6BAZRM2";
 const char *TS_URL_UPDATE    = "http://api.thingspeak.com/update";
 
 /* --- Pinagem ------------------------------------------------------------- */
