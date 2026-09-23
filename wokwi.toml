@@ -1,0 +1,10 @@
+# Arquivo usado apenas pela extensao "Wokwi for VS Code" (simulacao local).
+# No site wokwi.com ele e ignorado: la valem sketch.ino + diagram.json + libraries.txt.
+#
+# Para simular pelo VS Code, compile antes com o arduino-cli:
+#   arduino-cli compile --fqbn esp32:esp32:esp32doit-devkit-v1 --output-dir build .
+
+[wokwi]
+version = 1
+firmware = "build/sketch.ino.bin"
+elf = "build/sketch.ino.elf"

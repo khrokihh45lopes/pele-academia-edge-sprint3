@@ -1,0 +1,14 @@
+# Build do arduino-cli / PlatformIO
+build/
+.pio/
+.pioenvs/
+*.bin
+*.elf
+*.map
+
+# Editores e sistema
+.vscode/
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+desktop.ini
