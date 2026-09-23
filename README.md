@@ -13,13 +13,9 @@ informações consolidadas no **ThingSpeak** para histórico e acompanhamento re
 
 | Item | Link |
 |---|---|
-| Repositório GitHub (código-fonte do ESP32) | `https://github.com/khrokihh45lopes/pele-academia-edge-sprint3` |
-| Projeto no Wokwi (simulação) | `https://wokwi.com/projects/463726731355187201` |
-| Canal público no ThingSpeak | `https://thingspeak.mathworks.com/channels/3502609` |
-
-> ⚠️ **Preencher antes de entregar.** Os três links acima são obrigatórios.
-> O passo a passo para gerar o canal ThingSpeak e o projeto Wokwi está nas
-> seções 8 e 9 e em [docs/THINGSPEAK.md](docs/THINGSPEAK.md).
+| Repositório GitHub (código-fonte do ESP32) | <https://github.com/khrokihh45lopes/pele-academia-edge-sprint3> |
+| Projeto no Wokwi (simulação) | <https://wokwi.com/projects/463726731355187201> |
+| Canal público no ThingSpeak | <https://thingspeak.mathworks.com/channels/3502609> |
 
 ---
 
